@@ -35,3 +35,10 @@ The course gives an overview of how business intelligence technologies can suppo
 5 weeks of study, 4-5 hours/week
 
 Certificate: 
+
+# Design and Build a Data Warehouse for Business Intelligence Implementation
+The capstone course, Design and Build a Data Warehouse for Business Intelligence Implementation, features a real-world case study that integrates your learning across all courses in the specialization. In response to business requirements presented in a case study, you’ll design and build a small data warehouse, create data integration workflows to refresh the warehouse, write SQL statements to support analytical and summary query requirements, and use the MicroStrategy business intelligence platform to create dashboards and visualizations.
+
+In the first part of the capstone course, you’ll be introduced to a medium-sized firm, learning about their data warehouse and business intelligence requirements and existing data sources. You’ll first architect a warehouse schema and dimensional model for a small data warehouse. You’ll then create data integration workflows using Pentaho Data Integration to refresh your data warehouse. Next, you’ll write SQL statements for analytical query requirements and create materialized views to support summary data management. For data integration workflows and analytical queries, you can use either Oracle or PostgreSQL. Finally, you will use MicroStrategy OLAP capabilities to gain insights into your data warehouse. In the completed project, you’ll have built a small data warehouse containing a schema design, data integration workflows, analytical queries, materialized views, dashboards and visualizations that you’ll be proud to show to your current and prospective employers.
+
+6 weeks of study, 2-3 hours/week
