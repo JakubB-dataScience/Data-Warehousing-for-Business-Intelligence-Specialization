@@ -14,10 +14,24 @@ Database Management Essentials provides the foundation you need for a career in 
 Certificate: https://coursera.org/share/68d8b6aff5c6df77b3e491c512a3badd
 
 # Data Warehouse Concepts, Design, and Data Integration
-This is the second course in the Data Warehousing for Business Intelligence specialization. Ideally, the courses should be taken in sequence.
-
 In this course, you will learn exciting concepts and skills for designing data warehouses and creating data integration workflows. These are fundamental skills for data warehouse developers and administrators. You will have hands-on experience for data warehouse design and use open source products for manipulating pivot tables and creating data integration workflows. In the data integration assignment, you can use either Oracle, MySQL, or PostgreSQL databases. You will also gain conceptual background about maturity models, architectures, multidimensional models, and management practices, providing an organizational perspective about data warehouse development. If you are currently a business or information technology professional and want to become a data warehouse designer or administrator, this course will give you the knowledge and skills to do that. By the end of the course, you will have the design experience, software background, and organizational context that prepares you to succeed with data warehouse development projects. In this course, you will create data warehouse designs and data integration workflows that satisfy the business intelligence needs of organizations. When you’re done with this course, you’ll be able to: * Evaluate an organization for data warehouse maturity and business architecture alignment; * Create a data warehouse design and reflect on alternative design methodologies and design goals; * Create data integration workflows using prominent open source software; * Reflect on the role of change data, refresh constraints, refresh frequency trade-offs, and data quality goals in data integration process design; and * Perform operations on pivot tables to satisfy typical business analysis requests using prominent open source software
 
 5 weeks of study, 4-5 hours/week
 
 Certificate: https://coursera.org/share/8952246220aa1ebc3d152f6af0bca655
+
+# Relational Database Support for Data Warehouses
+Relational Database Support for Data Warehouses is the third course in the Data Warehousing for Business Intelligence specialization. In this course, you'll use analytical elements of SQL for answering business intelligence questions. You'll learn features of relational database management systems for managing summary data commonly used in business intelligence reporting. Because of the importance and difficulty of managing implementations of data warehouses, we'll also delve into storage architectures, scalable parallel processing, data governance, and big data impacts. In the assignments in this course, you can use either Oracle or PostgreSQL.
+
+5 weeks of study, 4-5 hours/week
+
+Certificate: https://coursera.org/share/322d6a167f84380b87d556571b49d4cb
+
+# Business Intelligence Concepts, Tools, and Applications
+This is the fourth course in the Data Warehouse for Business Intelligence specialization. Ideally, the courses should be taken in sequence.  In this course, you will gain the knowledge and skills for using data warehouses for business intelligence purposes and for working as a business intelligence developer. You’ll have the opportunity to work with large data sets in a data warehouse environment and will learn the use of MicroStrategy's Online Analytical Processing (OLAP) and Visualization capabilities to create visualizations and dashboards. 
+
+The course gives an overview of how business intelligence technologies can support decision making across any number of business sectors. These technologies have had a profound impact on corporate strategy, performance, and competitiveness and broadly encompass  decision support systems, business intelligence systems, and visual analytics. Modules are organized around the business intelligence concepts, tools, and applications, and the use of data warehouse for business reporting and online analytical processing, for creating visualizations and dashboards, and for business performance management and descriptive analytics.
+
+5 weeks of study, 4-5 hours/week
+
+Certificate: 
